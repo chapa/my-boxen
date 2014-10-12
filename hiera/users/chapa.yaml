@@ -1,0 +1,5 @@
+---
+boxen::config::srcdir: "/Users/%{boxen_user}/Documents/Sites"
+
+git::credentialhelper: false
+git::global_credentialhelper: false
